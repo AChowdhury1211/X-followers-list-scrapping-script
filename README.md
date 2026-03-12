@@ -1,0 +1,6 @@
+- go to your own username/followers page
+- go to console (ctrl + shift + I or f12)
+- type manually "allow pasting" if warning arises
+- paste script
+- download .json
+- compare with previous downloaded json with any llm agent
